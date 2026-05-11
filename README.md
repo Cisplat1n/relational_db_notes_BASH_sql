@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🐍 python — notes
+#  BASH ($_) and SQL — notes
 
 *Personal reference notes. Practical over exhaustive.*
 
-[![Last Updated](https://img.shields.io/github/last-commit/Cisplat1n/python-notes?label=last%20updated&style=flat-square&color=3d7aad)](https://github.com/Cisplat1n/relational_db_notes_BASH_sql)
+[![Last Updated](https://img.shields.io/github/last-commit/Cisplat1n/relational_db_notes_BASH_sql?label=last%20updated&style=flat-square&color=3d7aad)](https://github.com/Cisplat1n/relational_db_notes_BASH_sql)
 
 </div>
 
