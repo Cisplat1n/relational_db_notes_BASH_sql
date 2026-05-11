@@ -4,7 +4,7 @@
 
 *Personal reference notes. Practical over exhaustive.*
 
-[![Last Updated](https://img.shields.io/github/last-commit/yourusername/python-notes?label=last%20updated&style=flat-square&color=3d7aad)](https://github.com/yourusername/python-notes/commits/main)
+[![Last Updated](https://img.shields.io/github/last-commit/Cisplat1n/python-notes?label=last%20updated&style=flat-square&color=3d7aad)](https://github.com/Cisplat1n/relational_db_notes_BASH_sql)
 
 </div>
 
