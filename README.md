@@ -1,6 +1,6 @@
 <div align="center">
 
-#  BASH ($_) and SQL — notes
+#  $_ BASH and SQL — notes
 
 *Personal reference notes.*
 
@@ -22,12 +22,12 @@
 
 ## Usage
  
-Clone and open locally, or browse notebooks directly on GitHub — code cells render in-place.
+Clone and open locally, or browse notebooks directly on GitHub - code cells render in-place.
  
 ```bash
-git clone 
-cd 
-jupyter lab
+gh repo clone Cisplat1n/relational_db_notes_BASH_sql
+cd relational_db_notes_BASH_sql
+jupyter lab #or preferred jupyter notebook editor
 ```
  
 ---
