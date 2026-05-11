@@ -2,87 +2,44 @@
 
 #  BASH ($_) and SQL — notes
 
-*Personal reference notes. Practical over exhaustive.*
+*Personal reference notes.*
 
 [![Last Updated](https://img.shields.io/github/last-commit/Cisplat1n/relational_db_notes_BASH_sql?label=last%20updated&style=flat-square&color=3d7aad)](https://github.com/Cisplat1n/relational_db_notes_BASH_sql)
 
 </div>
 
----
-
-## Structure
-
-```
-python-notes/
-├── core/
-│   ├── types-and-data-structures.md
-│   ├── comprehensions.md
-│   ├── decorators.md
-│   └── error-handling.md
-├── stdlib/
-│   ├── pathlib.md
-│   ├── itertools.md
-│   └── dataclasses.md
-├── libraries/
-│   ├── pandas.md
-│   ├── polars.md
-│   └── requests.md
-├── patterns/
-│   ├── project-layout.md
-│   └── typing.md
-└── gotchas.md
-```
 
 ---
-
-## Contents
-
-### Core language
-- [Types & data structures](./core/types-and-data-structures.md)
-- [Comprehensions](./core/comprehensions.md)
-- [Decorators](./core/decorators.md)
-- [Error handling](./core/error-handling.md)
-
-### Standard library
-- [pathlib](./stdlib/pathlib.md)
-- [itertools](./stdlib/itertools.md)
-- [dataclasses](./stdlib/dataclasses.md)
-
-### Libraries
-- [pandas](./libraries/pandas.md)
-- [polars](./libraries/polars.md)
-- [requests](./libraries/requests.md)
-
-### Patterns
-- [Project layout](./patterns/project-layout.md)
-- [Typing](./patterns/typing.md)
-
-### [Gotchas](./gotchas.md)
-
+ 
+## Notebooks
+ 
+| Notebook | Topics covered |
+|---|---|
+| [core-types.ipynb](./core-types.ipynb) | Built-in types, mutability, casting |
+| [comprehensions.ipynb](./comprehensions.ipynb) | List, dict, set, generator expressions |
+| [decorators.ipynb](./decorators.ipynb) | Function wrapping, `functools`, practical patterns |
+| [error-handling.ipynb](./error-handling.ipynb) | `try/except`, custom exceptions, context managers |
+| [typing.ipynb](./typing.ipynb) | Type hints, `TypeVar`, `Protocol`, `dataclasses` |
+| [itertools.ipynb](./itertools.ipynb) | `chain`, `groupby`, `product`, `islice` |
+| [pandas.ipynb](./pandas.ipynb) | DataFrames, indexing, groupby, merging |
+| [gotchas.ipynb](./gotchas.ipynb) | Mutable defaults, late binding, scoping quirks |
+ 
 ---
-
-## Note format
-
-```markdown
-# Topic
-
-## Overview
-One or two sentences on what this is.
 
 ## Usage
-The practical bit — code-first.
-
-## Gotchas
-Edge cases or things worth flagging.
-
-## See also
-- [link](url)
+ 
+Clone and open locally, or browse notebooks directly on GitHub — code cells render in-place.
+ 
+```bash
+git clone 
+cd 
+jupyter lab
 ```
-
+ 
 ---
 
 <div align="center">
 
-*Written for future me. Accuracy over completeness.*
+*Written for future me.*
 
 </div>
