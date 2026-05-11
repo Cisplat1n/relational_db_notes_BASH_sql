@@ -15,14 +15,8 @@
  
 | Notebook | Topics covered |
 |---|---|
-| [core-types.ipynb](./core-types.ipynb) | Built-in types, mutability, casting |
-| [comprehensions.ipynb](./comprehensions.ipynb) | List, dict, set, generator expressions |
-| [decorators.ipynb](./decorators.ipynb) | Function wrapping, `functools`, practical patterns |
-| [error-handling.ipynb](./error-handling.ipynb) | `try/except`, custom exceptions, context managers |
-| [typing.ipynb](./typing.ipynb) | Type hints, `TypeVar`, `Protocol`, `dataclasses` |
-| [itertools.ipynb](./itertools.ipynb) | `chain`, `groupby`, `product`, `islice` |
-| [pandas.ipynb](./pandas.ipynb) | DataFrames, indexing, groupby, merging |
-| [gotchas.ipynb](./gotchas.ipynb) | Mutable defaults, late binding, scoping quirks |
+| [BASH_notes.ipynb](./BASH_notes.ipynb) | Built-in types, mutability, casting |
+
  
 ---
 
